@@ -1,5 +1,8 @@
 # practical-react
-Pre-requsities : Node.js, JavaScript Libraries and Any Code Editor of Choice preferred - VS Code
+Pre-requsities : Node.js modules, JavaScript Libraries and Any Code Editor of Choice preferred - VS Code
+
+
+
 Instructions to run the app:-
 Step 1 : Download the code from the github repository
 Step 2: Open the project via code editor
